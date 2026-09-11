@@ -2,36 +2,45 @@
 
 # 👋 Hi, I'm Astitva Raj
 
-### 💻 Full Stack Developer | AI/ML Enthusiast | Software Developer
+### 💻 Full Stack Developer | 🤖 AI/ML Enthusiast | 🚀 Problem Solver
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Exploring+Artificial+Intelligence;Full+Stack+Developer;Always+Learning+%26+Building+%F0%9F%9A%80" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Building+Real-World+Projects;Turning+Ideas+Into+Working+Solutions;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<p>
-  <a href="https://github.com/astitvaraj14">
-    <img src="https://komarev.com/ghpvc/?username=astitvaraj14&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
+<p align="center">
+
+<a href="https://github.com/astitvaraj14">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/astitva-raj-444786292/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 Passionate about **Full Stack Development**
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**
-- 🌐 Building modern and scalable web applications
-- 🧠 Improving problem-solving and software engineering skills
-- 🚀 Working on real-world projects and applications
-- 🌱 Always learning new technologies and frameworks
+I'm a developer passionate about building **real-world software solutions** and exploring the intersection of **Full Stack Development and Artificial Intelligence**.
+
+- 💻 Building modern web applications
+- 🤖 Exploring AI/ML and intelligent applications
+- 🌐 Interested in Full Stack Development
+- 🧠 Continuously improving problem-solving and DSA skills
+- 🚀 Turning ideas into practical applications
+- 🤝 Interested in collaborative and impactful projects
+- 🌱 Always learning and experimenting with new technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,cpp,c,html,css" />
@@ -40,7 +49,7 @@
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,tailwind" />
 </p>
 
 ### 🗄️ Databases
@@ -57,110 +66,248 @@
 
 ---
 
-# 📊 GitHub Statistics
+# 🚀 Featured Projects
+
+## 🛒 Digital Marketplace
+
+A full-stack digital marketplace developed as a **CBA MERN Stack Project**, focused on creating a practical marketplace experience with modern web technologies.
+
+**Focus Areas**
+
+- Full Stack Development
+- Web Application Architecture
+- REST APIs
+- Database Integration
+- Team Collaboration
+
+🔗 **Repository:**  
+https://github.com/astitvaraj14/Digital-Marketplace
+
+---
+
+## 🛡️ SkyGuard AI
+
+An AI-focused project exploring intelligent software solutions and practical applications of artificial intelligence.
+
+**Focus Areas**
+
+- Artificial Intelligence
+- Intelligent Applications
+- Web Development
+- Automation
+
+🔗 **Repository:**  
+https://github.com/astitvaraj14/SkyGuard-AI
+
+---
+
+## 🏠 AI-Based Real Estate Due Diligence
+
+An AI-powered project designed to assist with **real-estate due-diligence workflows** and intelligent analysis.
+
+**Focus Areas**
+
+- Artificial Intelligence
+- Intelligent Analysis
+- Automation
+- Real-World Problem Solving
+
+🔗 **Repository:**  
+https://github.com/astitvaraj14/AI-Based-Real-Estate-Due-Diligence
+
+---
+
+## 🌱 Eco-Friendly Route Planner
+
+A route-planning application focused on environmentally conscious navigation and route analysis.
+
+**Focus Areas**
+
+- Route Planning
+- Maps
+- Environmental Analysis
+- Web Development
+
+🔗 **Repository:**  
+https://github.com/astitvaraj14/eco-friendly-route-planner
+
+---
+
+## 🎓 College Rank & SGPA Applications
+
+Web applications developed for calculating and analyzing university results, SGPA/CGPA and student rankings.
+
+**Focus Areas**
+
+- Result Analysis
+- SGPA/CGPA Calculation
+- Data Processing
+- Web Development
+
+🔗 **College Rank:**  
+https://github.com/astitvaraj14/College-Rank-list-with-sgpa
+
+🔗 **University Result:**  
+https://github.com/astitvaraj14/Computation-of-University-Result
+
+---
+
+
+---
+
+# 🎯 Current Goals
+
+- 🚀 Build production-ready full-stack applications
+- 🤖 Integrate AI into real-world applications
+- 🧠 Strengthen Data Structures & Algorithms
+- 🌐 Improve software architecture and development skills
+- ☁️ Explore cloud and deployment technologies
+- 🤝 Contribute to collaborative projects
+- 💼 Prepare for software engineering opportunities
+
+
+---
+
+# 🧩 Areas of Interest
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=astitvaraj14&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astitvaraj14&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://img.shields.io/badge/Full%20Stack%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Web%20Development-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Problem%20Solving-00C853?style=for-the-badge&logo=leetcode&logoColor=white" />
 
 </p>
+
+
+---
+
+# 📚 Featured Learning
+
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Full Stack Development
+
+Building modern web applications using frontend, backend, APIs and databases.
+
+</td>
+
+<td width="50%">
+
+### 🤖 Artificial Intelligence
+
+Exploring AI/ML concepts and integrating intelligent features into applications.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 Data Structures & Algorithms
+
+Improving problem-solving skills through algorithmic thinking and coding practice.
+
+</td>
+
+<td width="50%">
+
+### ☁️ Cloud & Deployment
+
+Learning deployment, cloud platforms and production-ready application workflows.
+
+</td>
+</tr>
+</table>
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=astitvaraj14&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astitvaraj14&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" />
+
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=astitvaraj14&theme=tokyonight&hide_border=true" />
 
-</p>
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=astitvaraj14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+<img src="https://github-profile-trophy.vercel.app/?username=astitvaraj14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
 
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🛒 Digital Marketplace
-
-A MERN-stack based digital marketplace application.
-
-**Tech:** JavaScript • React • Node.js • Express • MongoDB
-
----
-
-### 🛡️ SkyGuard AI
-
-An AI-powered project focused on intelligent analysis and automation.
-
-**Tech:** JavaScript • AI/ML
-
----
-
-### 🏠 AI-Based Real Estate Due Diligence
-
-An AI-powered system designed to assist with real-estate due-diligence workflows.
-
-**Tech:** JavaScript • AI • Automation
-
----
-
-### 🌱 Eco-Friendly Route Planner
-
-An intelligent route planning application focused on eco-friendly navigation.
-
-**Tech:** HTML • CSS • JavaScript • APIs
+</div>
 
 ---
 
 # 📈 Contribution Activity
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=astitvaraj14&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=astitvaraj14&theme=tokyo-night&hide_border=true&area=true" />
 
-</p>
-
----
-
-# 💬 Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</p>
+</div>
 
 ---
 
-# 🤝 Connect With Me
 
-<p align="center">
-
-<a href="https://github.com/astitvaraj14">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/astitva-raj-444786292/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
 
 ---
+
+# 🤝 Let's Connect
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<a href="https://github.com/astitvaraj14">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/astitva-raj-444786292/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
+
+<br>
+
+<div align="center">
+
+### 💬 "Build. Learn. Improve. Repeat. 🚀"
+
+⭐ Thanks for visiting my profile!
+
+</div>
+
+# 💡 What I'm Currently Exploring
+
+```text
+                    Software Development
+                            │
+             ┌──────────────┴──────────────┐
+             │                             │
+       Full Stack Development          AI / ML
+             │                             │
+      ┌──────┴──────┐               ┌──────┴──────┐
+      │             │               │             │
+   Frontend      Backend          AI Apps       Automation
+      │             │               │             │
+ React / Next    APIs / DB       Intelligent    Real-World
+      │             │            Solutions       Problems
+      └─────────────┴───────────────┬─────────────┘
+                                    │
+                              🚀 Build & Learn
