@@ -223,47 +223,7 @@ Learning deployment, cloud platforms and production-ready application workflows.
 </tr>
 </table>
 
-# 📊 GitHub Statistics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=astitvaraj14&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astitvaraj14&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" />
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=astitvaraj14&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=astitvaraj14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=astitvaraj14&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
 
 
 
